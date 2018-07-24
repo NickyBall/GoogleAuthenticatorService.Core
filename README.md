@@ -6,7 +6,7 @@ This library was rebuilt of https://github.com/BrandonPotter/GoogleAuthenticator
 ### Installation
 Via Nuget
 ```
-Install-Package GoogleAuthenticatorService.Core -Version 1.0.0
+Install-Package GoogleAuthenticatorService.Core
 ```
 
 ### Getting started
